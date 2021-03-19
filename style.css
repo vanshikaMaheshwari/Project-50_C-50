@@ -1,0 +1,68 @@
+body{
+    border: 5px solid darkgreen;
+}
+*{
+    background-color: rgb(124, 235, 229);
+}
+h1{
+    font-family: comic sans ms;
+    color: navy
+}
+h2{
+    font-family: Castellar Regular;
+    color: rgb(4, 80, 48)
+}
+h3{
+    font-family: -apple-system, Bl-apinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: rgb(207, 0, 0)
+}
+.Elsa{
+    display: flex;
+    justify-content: space-evenly;
+    background-image: url("BG.jpg");
+}
+.SnowWhite{
+    display: flex;
+    justify-content: space-evenly;
+    background-image: url("BG.jpg");
+}
+.Cinderella{
+    display: flex;
+    justify-content: space-evenly;
+    background-image: url("BG.jpg");
+}
+.Rapunzel{
+    display: flex;
+    justify-content: space-evenly;
+    background-image: url("BG.jpg");
+}
+.Belle{
+    display: flex;
+    justify-content: space-evenly;
+    background-image: url("BG.jpg");
+}
+.Ariel{
+    display: flex;
+    justify-content: space-evenly;
+    background-image: url("BG.jpg");
+}
+.Aurora{
+    display: flex;
+    justify-content: space-evenly;
+    background-image: url("BG.jpg");
+}
+.Jasmine{
+    display: flex;
+    justify-content: space-evenly;
+    background-image: url("BG.jpg");
+}
+.Mulan{
+    display: flex;
+    justify-content: space-evenly;
+    background-image: url("BG.jpg");
+}
+.Tiana{
+    display: flex;
+    justify-content: space-evenly;
+    background-image: url("BG.jpg");
+}
